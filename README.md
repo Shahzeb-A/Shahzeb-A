@@ -30,9 +30,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ShahzebAli123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahzebAli123&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShahzebAli123&layout=compact&langs_count=8&theme=radical"/>
+<a href="https://github.com/Shahzeb-A">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shahzeb-A&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahzeb-A&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
