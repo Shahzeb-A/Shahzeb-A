@@ -13,7 +13,7 @@
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Automation, and Data Science.\
 ✍️ &nbsp;In my free time, I work on my personality and Blog writing as hobbies\
-✉️ &nbsp;You can contact me on my email at shahzebchannel@gmail.com! I'll try to reply as soon as I can.\
+✉️ &nbsp;You can contact me on my email at tecshahzeb@gmail.com! I'll try to reply as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/Shahzeb-A/Shahzeb-A/files/6951042/Navy.Blue.and.Black.Professional.Resume.1.pdf)
  for more details about me. I'm open to feedback and suggestions!
 
