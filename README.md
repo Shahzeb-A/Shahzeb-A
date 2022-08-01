@@ -1,9 +1,5 @@
 
-
-
-
-
-![client banner shazeb (3)](https://user-images.githubusercontent.com/63748662/125166798-edc69500-e1a5-11eb-8e95-f4d3a361a57e.png)
+![data-banner-fb (2)](https://user-images.githubusercontent.com/63748662/182264363-48e52bd2-69e7-41c4-b998-7048bf7718b3.jpg)
 
 <h2>Hey there! I'm Shahzeb</h2>
 
