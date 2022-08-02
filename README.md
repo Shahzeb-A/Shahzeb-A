@@ -36,7 +36,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://lamatechnologies.com/"><img src="https://img.shields.io/badge/-LamaTechnologies-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="shahzebchannel@gmail.com"><img src="https://img.shields.io/badge/-shahzebchannel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="tecshahzeb@gmail.com"><img src="https://img.shields.io/badge/-tecshahzeb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shahzeb-ali-34a1841a2/"><img src="https://img.shields.io/badge/-Shahzeb%20Ali%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009494757377"><img src="https://img.shields.io/badge/-@Shahzeb-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
